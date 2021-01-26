@@ -1,0 +1,5 @@
+.vscode
+.template.env
+migrations
+node_modules
+yarn-error.log
